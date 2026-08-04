@@ -1,0 +1,33 @@
+# NITEP - Nonprofit IT Empowerment Program
+
+> NITEP is a pooled-volume purchasing program that gives 501(c)(3) nonprofit organizations an automatic 20% discount on Boom 365: MSSP Pro managed security services. It is operated by Boom Logic (The Boom Company, Inc.), a Los Angeles-based MSP/MSSP serving nonprofits and SMBs since 2006 on infrastructure it owns and operates.
+
+## How the program works
+
+- Participating nonprofits' device counts are combined into a single purchasing pool, so every member receives enterprise volume pricing regardless of individual size.
+- The 20% discount is automatic for every verified 501(c)(3) - no negotiation, no annual re-qualification.
+- Minimum to join: 20 endpoints (workstations, laptops, servers).
+- The discount applies to Boom 365: MSSP Pro, Boom Logic's managed security plan with 24/7 monitoring, endpoint protection, and security operations.
+
+## Who it serves
+
+- Community health clinics and Federally Qualified Health Centers (FQHCs)
+- Human services, housing, education, arts, culture, and faith-based nonprofits
+- Any active 501(c)(3) organization with 20 or more devices
+
+## Compliance and funding support
+
+- Boom Logic provides Compliance as a Service covering HIPAA, CMMC, and NIST frameworks.
+- Boom Logic is a SAM.gov-registered vendor and supports grant-funded technology projects, including the Nonprofit Security Grant Program (FEMA/Cal OES) and FCC programs.
+
+## Key pages
+
+- [NITEP overview](https://nitep.org/): Program summary, qualification criteria, and FAQ
+- [Application and pricing calculator](https://boomlogic.com/nonprofit-it-empowerment-program/): Apply to join the pool and see exact NITEP rates by endpoint count
+- [Boom Logic](https://boomlogic.com/): Program operator - Los Angeles MSP/MSSP, UCaaS, and cloud hosting provider
+
+## Contact
+
+- Phone: +1-833-266-6338
+- Email: info@boomlogic.com
+- Address: 1106 Colorado Blvd, Los Angeles, CA 90041
