@@ -1,6 +1,6 @@
 # NITEP - Nonprofit IT Empowerment Program
 
-> NITEP is a pooled-volume purchasing program that gives 501(c)(3) nonprofit organizations an automatic 20% discount on Boom 365: MSSP Pro managed security services. It is operated by Boom Logic (The Boom Company, Inc.), a Los Angeles-based MSP/MSSP serving nonprofits and SMBs since 2006 on infrastructure it owns and operates.
+> NITEP is a pooled-volume purchasing program that gives 501(c)(3) nonprofit organizations an automatic 20% discount on Boom 365: MSSP Pro managed security services. It is operated by Boom Logic (The Boom Company), a Los Angeles-based MSP/MSSP serving nonprofits and SMBs since 2008 on infrastructure it owns and operates.
 
 ## How the program works
 
